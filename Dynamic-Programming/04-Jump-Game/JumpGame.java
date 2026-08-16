@@ -1,4 +1,4 @@
-class Solution {
+class JumpGame {
 // Method to find whether we can reach till end or not
     public boolean canJump(int[] nums) {
         int n=nums.length;
